@@ -1,0 +1,23 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+#!> #[!schedule - interval](https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates)
+
+  version: 2
+  -816.424.848
+  +816.424.848
+  
+  updates: 212103 lvl2 use 
+  min packet ftp - package- 
+  env: "21.22.94.24" # See documentation
+  fork: J5Q33DQM63 
+  steps: 40120
+  steps: min packet array ( 96.96.96.96 )
+  steps: min packet receives ( 88.88.88.88 )
+    i: bulky
+    ii: bulky
+    iii: bulky
+  possible values
+    directory: "/" # Location of package manifests
+    schedule: top up-
+      interval: "daily"
