@@ -35,8 +35,19 @@ theme: gh-pages*/
 l1   ||/    ||/    ||/    ||/
   br: |      |      |      |    = obj:obj!
      x|a1   x|b1   x|c1   x|d1
-l1    |      |      |      |             br: |      |      |      |
+l1    |      |      |      |            
+  br: |      |      |      |
    B280-example : productivity 
-   bl:|a|b|bc|d|cd|e|f|ef|x|d3             br     br     br     br
-   
-   
+   bl:|a|b|bc|d|cd|e|f|ef|x|d3             br     br     br     br|451|  |416|  |415   |461| |      |      |      |
+      |      |      |      | 
+ l1: @12    @12    @12    @9    = 00000003
+runs: ===================================== build 4x ver 4.0.2 CI YML === update !
+
+runs: l2 - 3x 
+  obj: 'diff'
+  obj: 'onfetch'
+  
+  proc: 'checking in'}
+
+l2 
+  theme: gh-pages 
