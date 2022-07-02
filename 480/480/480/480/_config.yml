@@ -1,0 +1,33 @@
+
+
+runs: l1 - 3x 
+  format: build - ready 
+{
+l1
+  /*
+  version: CI Runs deploy opt in = 'true'
+    update: cla-Cisa CI run -- build 4.0
+    running: example --- repo "token"
+    
+ runs: l1 - 3x  
+  format: build - running "true" prefix!
+  format: build - running "true" ptefix!
+  
+l1
+   theme: gh-pages
+  /*
+/* on:
+
+
+
+
+
+l1
+theme: gh-pages
+
+/* These config runs manually - last record
+/* These config runs &, build - last record
+/* These gh-pages cla-Cisa - ct test update
+l1
+theme: gh-pages*/
+}
